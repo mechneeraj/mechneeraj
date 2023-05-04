@@ -4,7 +4,7 @@
 I'm a student who is learning to code.
 
 ## 🛠 Skills
-Javascript, HTML, CSS.
+Javascript, HTML, CSS, React JS.
 
 
 <!---
